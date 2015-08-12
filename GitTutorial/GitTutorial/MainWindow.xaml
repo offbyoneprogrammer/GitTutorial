@@ -3,6 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button> Button1 </Button>        
+        <Button Width="200" Height="30"> Button1 </Button>        
     </Grid>
 </Window>
